@@ -4,7 +4,7 @@
 
 - 😄 Pronouns: **He/Him**
 - 💬 Ask me about **backend technologies, cybersecurity and networking!**
-- 📫 Reach me at [shanujindal48@gmail.com](mailto:shanujindal48@gmail.com)
+- 📫 Reach me at [sanyamg.garg@gmail.com](mailto:sanyamg.garg@gmail.com)
 
 ## Connect with me!
 <a href="https://twitter.com/SanyamGarg666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
